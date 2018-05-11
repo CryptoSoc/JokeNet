@@ -1,3 +1,5 @@
 __pycache__/
 .ipynb_checkpoints/
-rnn_data/
+rnn_data/*.json
+rnn_data/*.txt
+

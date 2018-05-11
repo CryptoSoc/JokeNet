@@ -35,7 +35,10 @@ We have created some starting models to launch off of but they aren't necessaril
 The paper that our RNN implementation comes from is here:
 https://arxiv.org/pdf/1409.2329.pdf
 
+# Get the Data
 
+You can get the joke datasets from here: https://github.com/taivop/joke-dataset
+Then, using the utility functions in the jupyter notebook JokeNet_RNN.ipynb you can generate, train, test and validation sets.
 
 
 # What you can do
