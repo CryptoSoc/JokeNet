@@ -27,7 +27,7 @@ If anything doesn't make sense, create an issue right here on this very page so 
 Clone this repo locally to work on it:
 
 ```
-git clone [THIS_REPO]
+git clone https://github.com/CryptoSoc/JokeNet
 ```
 
 We have created some starting models to launch off of but they aren't necessarily the final thing. You are more than welcome to edit them or start fresh.
@@ -38,7 +38,8 @@ https://arxiv.org/pdf/1409.2329.pdf
 # Get the Data
 
 You can get the joke datasets from here: https://github.com/taivop/joke-dataset
-Then, using the utility functions in the jupyter notebook JokeNet_RNN.ipynb you can generate, train, test and validation sets.
+
+Then, using the utility functions in the jupyter notebook `JokeNet_RNN.ipynb` you can generate, train, test and validation sets.
 
 
 # What you can do
