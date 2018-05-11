@@ -84,7 +84,28 @@ Now instead of fluffing with code optimizations (which are indeed important and 
 
 [Start Here.](https://colab.research.google.com)
 
+# Some Results
 
+A small portion of generated text after 128100000 iterations:
+
+```
+An elderly man walks into a bar and says, "I was a man with a shit on the bathroom."
+
+The man says "I was so sorry to make a bus to the bathroom. I would like the chicken and I was starting to see her." 
+
+The man says, "I would like a book about this and I have the bathroom to my friend and she started to cry to his buddy and a son who wouldn't help her to the conductor and said "I would have a strange street the other day to this morning."
+
+The man responded, "I was a man."
+
+The man said, "What are you doing to do?" The bartender said, "I don't know how many stars does it take to change a light bulb?"
+The man says, "Well you aren't sure that's a monkey but I don't have a child."
+
+The manager says, "Why don't you think you went to his bathroom?" The man replied "Well you are so bad, I'm a strange son."
+
+The man replied, "I'll be a bit of here."
+
+Then he said, "I didn't have to go out."
+```
 
 # Fun With RNNs
 
